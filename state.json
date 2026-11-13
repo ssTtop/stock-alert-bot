@@ -1,4 +1,21 @@
 {
   "price": {},
-  "stage": {}
+  "stage": {
+    "AMZN": "2",
+    "ASML": "2?",
+    "AVGO": "3",
+    "CBRS": "IPO",
+    "CRCL": "4",
+    "GOOGL": "3",
+    "HOOD": "2?",
+    "IREN": "4",
+    "MU": "2?",
+    "NBIS": "2?",
+    "NVDA": "2?",
+    "ORCL": "4",
+    "PL": "4",
+    "PLTR": "2",
+    "RKLB": "4",
+    "SPCX": "IPO"
+  }
 }
