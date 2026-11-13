@@ -1,5 +1,7 @@
 {
-  "price": {},
+  "price": {
+    "CBRS:above:105": true
+  },
   "stage": {
     "AMZN": "2",
     "ASML": "2?",
