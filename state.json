@@ -1,6 +1,7 @@
 {
   "price": {
-    "CBRS:above:105": false
+    "CBRS:above:105": false,
+    "CBRS:below:100": true
   },
   "stage": {
     "AMZN": "2",
